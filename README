@@ -1,0 +1,37 @@
+Ramp Content API Examples
+=============
+PHP / Javascript examples of how to use the RAMP Content APIs
+
+About
+-------------
+These examples illustrate how to use the Ramp Content APIs to create rich search and video player experiences. 
+
+Examples include:
+* Search results page with facets and pagination
+
+* Related To widget to show videos related to the main video
+
+* Video player with a moving transcript and MetaQ twitter cards
+
+* Subtitles, video search, transcripts, and other extensible metadata events originating in data services provides by MRSS, SMIL, and JSON.
+
+Requirements
+-------------
+
+The Content API examples rely on jQuery and PHP.  
+
+License
+-------------
+Copyright (c) 2011 [RAMP Holdings, Inc.](http://www.ramp.com)
+
+Licensed under the MIT license: [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
