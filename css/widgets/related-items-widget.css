@@ -1,0 +1,22 @@
+#ramp-related-items-widget ul li {
+	float:left;
+	margin:0;
+	padding:0;
+	width:120px;
+	margin-right:15px;
+}
+
+#ramp-related-items-widget ul  {
+	margin:0;
+	padding:0;
+}
+
+#ramp-related-items-widget .title {
+	font-size:18px;
+	font-weight:normal;
+	margin:5px 0;
+}
+
+#ramp-related-items-widget ul li .title {
+	font-size:14px;
+}

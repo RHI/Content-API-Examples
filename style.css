@@ -1,0 +1,30 @@
+body {
+    font-face:Arial;
+}
+
+.input-label {
+    font-family:Arial;
+    font-weight:normal;
+    font-size:14px;
+}
+
+.input-block{
+    background:#bfe0e3;
+    padding:5px 0px;
+    margin:0px;
+}
+.input-checked {
+    background:#98c7be;
+}
+span.see-code {
+    background: #5c9db9;
+    padding:5px;
+}
+
+.see-code-thingy {
+    background:url("images/arrow-button-cap.gif")  #fff no-repeat center center;
+    padding:5px 3px;
+}
+a.see-code {
+    color:#ffffff;
+}

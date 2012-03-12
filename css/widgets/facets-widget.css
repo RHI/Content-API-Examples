@@ -1,0 +1,39 @@
+/****************************************
+ ********** RAMP FACETS WIDGET **********
+ ***************************************/
+#ramp-facets-widget {
+	float:left;
+	margin:10px 16px 0 0;
+	width:150px;
+	
+}
+
+#ramp-facets-widget-container .ramp-facets-title {
+	font-size:14px;
+	font-weight:bold;
+	margin: 0;
+}
+
+#ramp-facets-widget-container  .facet-item.selected {
+	font-weight:bold;
+}
+
+#ramp-facets-widget-container  .facet-item {
+	margin:10px 0;
+	line-height:1.1em;
+}
+
+#ramp-facets-widget-container  .facet-item  a .facet-number {
+	color: #666;
+}
+
+#ramp-facets-widget-container ul.facets-list {
+	padding:0 0 10px 0;
+	margin: 0 0 18px 0;
+}
+
+#ramp-facets-widget-container #ramp-facets-loading-icon {
+	margin: 10px 0 0 20px;
+	width:70px;
+}
+

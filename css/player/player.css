@@ -1,0 +1,16 @@
+.mp-search-input {
+    position: absolute;
+    right: 100px;
+    left: 10px;
+    top: 3px;
+    bottom: 3px;
+    border: 1px solid gray;
+    border-right:  none;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    padding: 1px 4px;
+    font-size: 16px;
+    margin: 0;
+	border:3px solid red;
+	height:6px;
+}
